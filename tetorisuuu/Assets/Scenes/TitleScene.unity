@@ -1236,8 +1236,8 @@ ParticleSystem:
     m_UseMeshMaterialIndex: 0
     m_UseMeshColors: 1
     alignToDirection: 0
-    m_Texture: {fileID: 2800000, guid: 0372ee2e830897a499e1ece22964abc1, type: 3}
-    m_TextureClipChannel: 3
+    m_Texture: {fileID: 2800000, guid: 46224fef78409ed4a92b4eb255a9e3cb, type: 3}
+    m_TextureClipChannel: 0
     m_TextureClipThreshold: 0
     m_TextureUVChannel: 0
     m_TextureColorAffectsParticles: 1
@@ -4117,7 +4117,7 @@ ParticleSystem:
   CollisionModule:
     enabled: 0
     serializedVersion: 4
-    type: 0
+    type: 1
     collisionMode: 0
     colliderForce: 0
     multiplyColliderForceByParticleSize: 0
